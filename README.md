@@ -86,5 +86,4 @@ pip install -r requirements.txt
 jupyter notebook notebooks/job_change_analysis.ipynb
 
 3. Dataset
-
 Download the dataset from Kaggle and place it in the data/ directory.
